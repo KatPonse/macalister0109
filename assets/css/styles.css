@@ -68,6 +68,28 @@ header .title{
     text-align: center;
     padding: 2em;
 }
+
+h3{
+    padding: 1rem;
+    text-align: center;
+}
+
+
+.datos{
+    background-color: #00296B;
+    color: #ddd;
+    text-align: center;
+}
+
+.datostable{
+    text-align: left;
+}
+
+.edu{
+    background-color: #00509d;
+    color: #ddd;
+}
+
 .welcome h2{
     font-size: 2em;
     color: rgb(23, 66, 122);
